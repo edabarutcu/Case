@@ -9,10 +9,6 @@ import UIKit
 import UserNotifications
 import FirebaseMessaging
 
-// MARK: - NOTE
-// Apple Developer hesabım olmadığı için apns key yoktur.
-// Notification için kod implemente edildi.
-// Eğer firebase client'ına apns key girilirse push notification atacaktır.
 
 final class MovieNotificationManager: NSObject, MessagingDelegate {
     static let shared = MovieNotificationManager()

@@ -130,8 +130,8 @@
 		E8DE8F0828FD4A470037598C /* MovieApp */ = {
 			isa = PBXGroup;
 			children = (
-				53ED07262A32060200F6B657 /* remote_config_defaults.plist */,
 				53ED07282A3206CC00F6B657 /* GoogleService-Info.plist */,
+				53ED07262A32060200F6B657 /* remote_config_defaults.plist */,
 				E8DE8F1228FD4A480037598C /* Assets.xcassets */,
 				E8DE8F1728FD4A480037598C /* Info.plist */,
 				538002022A30593D003246E6 /* MovieApp.entitlements */,
@@ -627,7 +627,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mine.MovieApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.edabarutcu.moviesapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
